@@ -3,8 +3,8 @@ SimTrade is a trading app (fake money) that uses the Mboum API for market inform
 
 
 # Images
-![Overview](images/overview.png)
-![Settings](images/settings.png)
+![Overview](images/overview.jpeg)
+![Settings](images/settings.jpeg)
 
 
 # Features
